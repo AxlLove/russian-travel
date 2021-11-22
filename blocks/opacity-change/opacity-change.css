@@ -1,7 +1,7 @@
-.opacity-change { 
-    opacity: 1; 
-    transition: 0.1s linear 0.1s; 
-  } 
-  .opacity-change:hover { 
-    opacity: .8; 
-  } 
+.opacity-change {
+    opacity: 1;
+    transition: 0.1s linear 0.1s;
+  }
+  .opacity-change:hover {
+    opacity: .8;
+  }
