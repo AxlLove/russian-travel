@@ -1,0 +1,23 @@
+.footer {
+    margin: 0 auto;
+    padding: 92px 48px 24px;
+    display: grid;
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+  }
+  @media screen and (max-width: 980px) {
+    .footer {
+      padding: 88px 24px 24px;
+    }
+  }
+  @media screen and (max-width: 690px) {
+    .footer {
+      padding: 64px 16px 24px;
+      grid-template-columns: max-content;
+      grid-template-rows: repeat(2, max-content);
+      justify-content: stretch;
+      align-content: space-between;
+      row-gap: 48px;
+      }
+  }
+  

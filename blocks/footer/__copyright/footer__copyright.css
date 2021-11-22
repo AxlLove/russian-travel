@@ -1,0 +1,13 @@
+.footer__cotyright {
+    margin: 0;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.14;
+    color: #FFFFFF;
+  }
+  @media screen and (max-width: 690px) {
+    .footer__cotyright {
+      font-size: 14px;
+    }
+  }

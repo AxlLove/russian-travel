@@ -1,0 +1,10 @@
+.place__place-link {
+    grid-area: url;
+    align-self: end;
+  }
+  @media screen and (max-width: 690px) {
+    .place__place-link {
+      padding: 0 16px 0;
+    }
+  
+  }
