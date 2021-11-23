@@ -1,4 +1,4 @@
-.places {
+.russia__places {
     margin: 0 auto;
     list-style-type: none;
     padding: 0;
@@ -7,12 +7,12 @@
     row-gap: 80px;
   }
   @media screen and (max-width: 980px) {
-    .places {
+    .russia__places {
       row-gap: 73px;
     }
   }
   @media screen and (max-width: 690px) {
-    .places {
+    .russia__places {
       row-gap: 50px;
     }
   }
