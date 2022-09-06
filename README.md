@@ -2,10 +2,9 @@
 
 <div align="center">
   
-▼ ▼ ▼
-------------- |
+
 <a href="https://axllove.github.io/russian-travel/"><img src="https://github.com/AxlLove/Axllove/blob/master/src/travel.PNG" alt="Путешествия по России"></a>
-| <div align="center">https://axllove.github.io/russian-travel/</div> |
+ <div align="center">https://axllove.github.io/russian-travel/</div>
   
 </div>
 
